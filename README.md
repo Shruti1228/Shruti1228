@@ -11,7 +11,7 @@
 ```swift
 struct Developer {
     let name = "Shruti Myatra"
-    let role = "iOS Frontend Developer & UI/UX Designer"
+    let role = "iOS Developer & Software Engineer"
     let education = "B.Tech 3rd Year @ Parul University"
     let currentWork = "UI/UX Design Intern @ ICMR Project"
     let department = "E-Governance Cell, Parul University"
