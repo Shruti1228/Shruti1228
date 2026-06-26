@@ -48,8 +48,8 @@ struct ShrutiMyatra {
 ## 🚀 What I'm Building
 
 - 🤖 AskYT-AI — RAG-powered YouTube Knowledge Assistant
-- 📱 Offline-first iOS Applications using SwiftUI
 - 🏥 India Emergency Medical System (ICMR)
+- 📱 Offline-first iOS Applications using SwiftUI
 - 📊 Data Analytics & Dashboard Solutions
 - ⚡ AI-powered developer productivity tools
 
@@ -76,6 +76,20 @@ Turn any YouTube video into an intelligent searchable knowledge base.
 
 <td width="50%">
 
+## 🏥 India Emergency Medical System
+
+ICMR Healthcare Project
+
+- React Native
+- Offline Sync
+- Distributed System
+
+Healthcare digitalization platform for emergency response.
+
+</td>
+
+<td width="50%">
+
 ## 📱 Bioligo
 
 Offline-first iOS Learning Platform
@@ -91,20 +105,6 @@ Interactive biology education using immersive 3D learning.
 </tr>
 
 <tr>
-
-<td width="50%">
-
-## 🏥 India Emergency Medical System
-
-ICMR Healthcare Project
-
-- React Native
-- Offline Sync
-- Distributed System
-
-Healthcare digitalization platform for emergency response.
-
-</td>
 
 <td width="50%">
 
@@ -150,49 +150,7 @@ Jun 2026 — Present
 - Financial Analytics
 - Dashboard Development
 
-# ⚙️ Tech Stack
 
-### Languages
-
-![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk)
-![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
-
-### Mobile
-
-SwiftUI • UIKit • React Native
-
-### AI
-
-LLMs • RAG • LangChain • NLP
-
-### Backend
-
-Node.js • Express • REST APIs
-
-### Database
-
-MongoDB • CoreData • SQL
-
-### Tools
-
-Git • Docker • Figma • Xcode
-
-# 🏆 Achievements
-
-🥇 Top 45 Teams — Vadodara Hackathon 5.0
-
-🥇 Top 5 Teams — PU Code Hackathon
-
-👩‍💻 Lead — Swift Coding Club
-
-📜 App Development with Swift Associate
-
-💼 Software Engineer Intern
-
-📊 Data Analyst Intern
 
 # 📈 GitHub Analytics
 
@@ -210,16 +168,6 @@ Git • Docker • Figma • Xcode
 
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=4"/>
 
-# 📊 Highlights
-
-| 🚀 Metric | Value |
-|-----------|------:|
-| AI Knowledge Bases Built | 100+ |
-| Average AI Response Time | <2 sec |
-| Content Discovery Improvement | 90% |
-| Professional Internships | 2 |
-| Production Projects | 4+ |
-| Hackathons | 5+ |
 
 ## 🤝 Let's Connect
 
