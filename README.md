@@ -82,23 +82,7 @@ Healthcare digitalization platform for emergency response.
 
 <td width="50%">
 
-## 📱 Bioligo
 
-Offline-first iOS Learning Platform
-
-- SwiftUI
-- CoreData
-- Native iOS
-
-Interactive biology education using immersive 3D learning.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
 
 
 # 💼 Experience
@@ -128,33 +112,3 @@ Jun 2026 — Present
 - Dashboard Development
 
 
-
-
-
-## 🤝 Let's Connect
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:shrutimyatra202@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_LEETCODE">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</p>
-
-<div align="center">
-
-### ⭐ "Great software isn't just written — it's engineered to solve real problems."
-
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
-
-Thanks for visiting! 🚀
-
-</div>
