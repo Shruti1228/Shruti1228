@@ -34,14 +34,6 @@ struct ShrutiMyatra {
         "Data Analyst Intern @ Bluestock Fintech"
     ]
 
-    let interests = [
-        "Artificial Intelligence",
-        "SwiftUI",
-        "Distributed Systems",
-        "Backend Engineering",
-        "Open Source"
-    ]
-
 }
 ```
 
@@ -108,21 +100,6 @@ Interactive biology education using immersive 3D learning.
 
 <td width="50%">
 
-## 📊 Bluestock Analytics
-
-Financial Data Analytics
-
-- SQL
-- Python
-- Excel
-
-Interactive dashboards and market insights.
-
-</td>
-
-</tr>
-
-</table>
 
 # 💼 Experience
 
@@ -152,21 +129,6 @@ Jun 2026 — Present
 
 
 
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=4"/>
 
 
 ## 🤝 Let's Connect
